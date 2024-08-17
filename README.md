@@ -1,6 +1,6 @@
 # Prodigy InfoTech - Data Science Intern - Task 01 
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/e1e28a25-dc14-40cd-ade9-68fa2fbd9c31/76c98fea3b1a7c7dc2da?experience=power-bi
 
 ## Problem Statement
 
